@@ -1,0 +1,1 @@
+Halo Bu Desi, ini adalah isi file TXT asli sebelum dienkripsi menggunakan AES.
